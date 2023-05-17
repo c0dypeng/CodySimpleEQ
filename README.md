@@ -1,6 +1,6 @@
 # CodySimpleEQ
 
-An EQ plugin I created. Currently only support mac(AU/VST3)/
+An EQ plugin I build using JUCe. Currently only support mac(AU/VST3)/
 
 It includes a high pass filter, a low pass filter, a high shelf, a low shelf and one band eq.
 
